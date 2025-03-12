@@ -31,7 +31,7 @@ Through this project, I gained hands-on experience in **Machine Learning**, **fe
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/network-intrusion-detection.git
+   git clone https://github.com/saidililia/Swarm-Optimization.git
    ```
 2. Install dependencies:
    ```sh
